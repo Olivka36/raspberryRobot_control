@@ -1,3 +1,5 @@
+![Socket](https://img.shields.io/badge/Socket-4F75C3?style=for-the-badge&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) 
+
 ### Controlling a Raspberry Pi Robot with a GUI 🏎
 ### Управление роботом на Raspberry Pi Pico с помощью графического интерфейса
 
